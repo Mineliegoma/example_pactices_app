@@ -1,0 +1,39 @@
+{
+  "engineers": [
+    {
+      "id": 1,
+      "years": "1749-1827",
+      "name": "Pierre Simon Laplace",
+      "img": "https://www.sapaviva.com/wp-content/uploads/2017/07/33S.-Pierre-Simon-Laplace-1749-1827-293x293.jpg ",
+      "text": " Laplace was a French scholar and polymath whose work was important to the development of engineering, mathematics, statistics, physics, astronomy, and philosophy. He summarized and extended the work of his predecessors in his five-volume Mécanique Céleste (Celestial Mechanics)(1799–1825) "
+    },
+    {
+      "id": 2,
+      "years": "1768-1830",
+      "name": "Joseph Fourier",
+      "img": " https://media.sciencephoto.com/c0/44/70/79/c0447079-800px-wm.jpg",
+      "text": " Fourier was a French mathematician and physicist born in Auxerre and best known for initiating the investigation of Fourier series, which eventually developed into Fourier analysis and harmonic analysis, and their applications to problems of heat transfer and vibrations"
+    },
+    {
+      "id": 3,
+      "years": "1642-1727",
+      "name": " Isaac Newton",
+      "img": "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTY2MzU3Njc4ODI0NjI5OTM0/isaac_newton_1689_painting_sir_godfrey_kneller_public_domain_via_wikimedia_commons.jpg ",
+      "text": "Isaac was an English mathematician, physicist, astronomer, theologian, and author (described in his own day as a (natural philosopher) who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution "
+    },
+    {
+      "id": 4,
+      "years": "1879-1955",
+      "name": "Albert Einstein",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/1280px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg ",
+      "text": " Albert was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).His work is also known for its influence on the philosophy of science"
+    },
+    {
+      "id": 5,
+      "years": "1867-1934",
+      "name": "Marie Curie",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg ",
+      "text": "Marie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity."
+    }
+  ]
+}
